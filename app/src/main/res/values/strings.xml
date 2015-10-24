@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="action_new_repo">new repo</string>
+
+    <string name="main_label">Github</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="splash_content">GITHUB\nAPPLICATION</string>
+
+    <string name="login">Login</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="email">Email</string>
+    <string name="hireable">Able for hire</string>
+    <string name="public_repos">Public repositories</string>
+    <string name="public_gists">Public gists</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="created_at">Created at</string>
+    <string name="updated_at">Updated at</string>
+
+    <string name="repositories">Repositories</string>
+
+    <string name="owner">Owner</string>
+    <string name="private_word">Private</string>
+    <string name="description">Description</string>
+    <string name="pushed_at">Pushed at</string>
+    <string name="homepage">Homepage</string>
+    <string name="forks">Forks</string>
+    <string name="watchers">Watchers</string>
+    <string name="default_branch">Default Branch</string>
+
+    <string name="description_create_activity">This activity allows you create your own public repo.</string>
+    <string name="description_delete_activity">This activity allows you DELETE your own repo.\nBE CAREFULL!</string>
+    <string name="repository_name">Repository name</string>
+    <string name="repository_description">Repository description</string>
+    <string name="repository_homepage">Repository homepage</string>
+
+    <string name="create_new_repo">Create new repo</string>
+
+    <string name="delete_repo">Delete repo</string>
+
+</resources>
